@@ -1,1 +1,2 @@
-# 2025-01-22-learning-about-version-control
+# Learning about Version Control
+## author: Edward Sobczak
